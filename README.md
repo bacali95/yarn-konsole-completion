@@ -1,6 +1,6 @@
 # yarn-konsole-completion
 
-This plugin is the same [official](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/yarn) one, but this one runs on Konsole the original don't.
+This plugin is the same [official](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/yarn) one, but this one runs on Konsole, the original one don't.
 
 ## Installation
 
